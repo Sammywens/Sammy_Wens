@@ -10,7 +10,7 @@ const About = () => {
         <div className="w-[50%] lg:w-[100%]  lg:flex lg:justify-center">
           <div className="bg-[#0a0a0a] h-[420px] w-[420px]  rounded-lg shadow-2xl flex justify-center overflow-hidden hover:scale-[1.05] ease-in duration-500">
             <img
-              src="/images/wens.jpeg"
+              src="/images/portfolio.jpg"
               alt="wens"
               className="h-[100%] w-[80%] rounded-lg shadow-2xl hover:scale-[1.05] ease-in duration-500 md:w-[100%]"
             />
